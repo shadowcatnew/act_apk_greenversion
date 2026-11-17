@@ -1,3 +1,36 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "name": "Smart Tube - YouTubeTV",
+      "apkUrl": "https://cloud.leeapks.com/SmartTube_v32.56_(2446).apk?token=1792349575.9fqHV0zLmH2JVo6Cp5DoxHfzvX8XmeZbqHK_xWw0jAM"
+    },
+    {
+      "name": "YouTube (Móvil)",
+      "apkUrl": "https://cloud.droidapks.com/YouTube_Premium_v21.45.82_(1561310997)_Mod.apk?token=1794414785.LoL7U3RnZMGQeErIomaKPkztoBf65SSkJmufeAyAAZw"
+    },
+    {
+      "name": "YouTube Music (Móvil)",
+      "apkUrl": "https://cloud.droidapks.com/YT_Music_Premium_v9.46.51_(94651240).apk?token=1794849314.zkz7Ux4EKslRQhLQIidMjgYLRULlz5fHjFrEKiDbS68"
+    },
+    {
+      "name": "MicroG-RE",
+      "apkUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.3.0/microg-7.3.0.apk"
+    },
+    {
+      "name": "XuperTV - (TV)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/upcehyahwfbibmdy8wwng/XUP3R_TV_PRO_BUSQUEDA_CORREGIDA.apk?rlkey=tieoexoirnduwwk0vtgdcxx8a&st=o5cayfww&dl=1"
+    },
+    {
+      "name": "Xuper - (Movil)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/5eyv79o5yw80j94bsakn4/X_up3rTV_Telefono_ClinicaPC.apk?rlkey=va8nyyhdz1km6i0m8xe2h0wej&st=gfzwh11f&dl=1"
+    },
+    {
+      "name": "FCTV33 (Móvil)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/p52fal38wqn4eqv9niq2k/OK_FCTV33-APP-_3.0.323_Mod.apk?rlkey=8n2ydfah0jmfnxrhbibbzkucf&st=iulng21t&e=1&dl=1"
+    },
+    {
+      "name": "FCTV33 (TV)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/j98qomg15o2yuo7pqm5eb/FCTV33-TV-3.0.323-sin-update.apk?rlkey=79ueh38794p1b7x5iy5ul931r&st=d3vt1q1c&dl=1"
+    }
+  ]
 }
